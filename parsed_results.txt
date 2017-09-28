@@ -1,0 +1,8 @@
+Overall Score: 645, 646, 642, 644, 641
+Overall Multicore Score: 2655, 2660, 2672, 2656, 2647
+Integer Score: 831, 833, 833, 830, 829
+Integer Multicore Score: 3624, 3621, 3633, 3570, 3540
+Floating Point Score: 460, 462, 454, 458, 456
+Floating Point Multicore Score: 2582, 2602, 2615, 2620, 2623
+Memory Score: 647, 641, 640, 645, 636
+Memory Multicore Score: 866, 858, 865, 901, 912
